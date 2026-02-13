@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+xgboost
+ctgan
+sdv
+shap
+gradio
+matplotlib
+seaborn
+joblib
+torch
